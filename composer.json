@@ -1,0 +1,22 @@
+{
+    "name": "meet/tool",
+    "description": "工具类",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Meet\\Tool\\": "src/"
+        },
+        "files": [
+            "src/Functions.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "meet",
+            "email": "liuyujian4857@163.com"
+        }
+    ],
+    "require": {
+        "php": ">=8.0"
+    }
+}
