@@ -1,5 +1,6 @@
 {
     "name": "shimmer/tool",
+    "version": "1.0.0",
     "description": "工具类",
     "license": "MIT",
     "autoload": {
